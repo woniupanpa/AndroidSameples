@@ -38,6 +38,7 @@ public class ExampleInstrumentedTest {
 
     @Test
     public void useAppContext() {
+        //test
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("com.example.greendao", appContext.getPackageName());
     }
