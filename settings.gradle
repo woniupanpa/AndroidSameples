@@ -1,0 +1,6 @@
+include ':aidlclient'
+include ':aidlservice'
+include ':retrofitokhttp'
+include ':greendao'
+include ':app'
+rootProject.name = "AndroidSamples"
