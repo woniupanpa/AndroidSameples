@@ -4,3 +4,4 @@ include ':retrofitokhttp'
 include ':greendao'
 include ':app'
 rootProject.name = "AndroidSamples"
+include ':core'
